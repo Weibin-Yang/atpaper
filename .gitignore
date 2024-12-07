@@ -1,0 +1,10 @@
+.env
+logs/
+__pycache__/
+output/
+pdf_storage/
+Template.md
+*.py[cod]
+.DS_Store
+Thumbs.db
+lib/python3.12/site-packages/
